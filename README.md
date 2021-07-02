@@ -2,7 +2,7 @@
 > Anna University R2017 - CS8662
 > Built on Android Studio 3.6.3 for Amdroid 10.0 (Q) SDK
 ## Table of Contents
-	[1. Development of an Android application that uses GUI components, fonts and colors](#1.-GUI-COMPONENTS-FONTS-AND-COLORS)
+1. [Development of an Android application that uses GUI components, fonts and colors](#1.-GUI-COMPONENTS-FONTS-AND-COLORS)
 2. [Development of an Android application that uses layout managers and event listeners](#LAYOUT-MANAGERS-AND-EVENT-LISTENERS)
 3. [Development of an Android application that draws basic graphical primitives on the screen](#GRAPHICAL-PRIMITIVES)
 4. [Development of an Android application that makes use of databases](#DATABASE)
