@@ -1,20 +1,20 @@
 # Mobile Application Development Laboratory
-> Anna University R2017 - CS8662
-> Built on Android Studio 3.6.3 for Amdroid 10.0 (Q) SDK
+##### Anna University R2017 - CS8662
+###### Built on Android Studio 3.6.3 for Android 10.0 (Q) SDK
 ## Table of Contents
 1. [Development of an Android application that uses GUI components, fonts and colors](#1-GUI-COMPONENTS-FONTS-AND-COLORS)
-2. [Development of an Android application that uses layout managers and event listeners](#LAYOUT-MANAGERS-AND-EVENT-LISTENERS)
-3. [Development of an Android application that draws basic graphical primitives on the screen](#GRAPHICAL-PRIMITIVES)
-4. [Development of an Android application that makes use of databases](#DATABASE)
-5. [Development of an Android application that makes use of Notification Manager](#NOTIFICATION-MANAGER)
-6. [Development of an Android application to implement multithreading](#MULTITHREADING)
-7. [Development of an Android application that makes use of GPS location information](#GPS-LOCATION)
-8. [Development of an Android application to write data to SD card](#WRITE-DATA-TO-THE-SD-CARD)
-9. [Development of an Android application that creates an alert upon receiving a message](#ALERT-ON-RECEIVING-A-MESSAGE)
-10. [Development of an Android application that makes use of RSS feed](#RSS-FEED)
-11. [Development of an Android application to send an email](#SEND-AN-EMAIL)
-12. [Bonus - Calculator App](#BONUS-CALCULATOR-APP)
-13. [Acknowledgement](#ACKNOWLEDGEMENT)
+2. [Development of an Android application that uses layout managers and event listeners](#2-LAYOUT-MANAGERS-AND-EVENT-LISTENERS)
+3. [Development of an Android application that draws basic graphical primitives on the screen](#3-GRAPHICAL-PRIMITIVES)
+4. [Development of an Android application that makes use of databases](#4-DATABASE)
+5. [Development of an Android application that makes use of Notification Manager](#5-NOTIFICATION-MANAGER)
+6. [Development of an Android application to implement multithreading](#6-MULTITHREADING)
+7. [Development of an Android application that makes use of GPS location information](#7-GPS-LOCATION)
+8. [Development of an Android application to write data to SD card](#8-WRITE-DATA-TO-THE-SD-CARD)
+9. [Development of an Android application that creates an alert upon receiving a message](#9-ALERT-ON-RECEIVING-A-MESSAGE)
+10. [Development of an Android application that makes use of RSS feed](#10-RSS-FEED)
+11. [Development of an Android application to send an email](#11-SEND-AN-EMAIL)
+12. [Bonus - Calculator App](#12-BONUS-CALCULATOR-APP)
+13. [Acknowledgement](#13-ACKNOWLEDGEMENT)
 
 ## 1. GUI COMPONENTS, FONTS AND COLORS
 - Create a new project in Android studio and choose the Empty Activity under the activities template.
