@@ -2,18 +2,18 @@
 > Anna University R2017 - CS8662
 
 ## Table of Contents
-* [Development of an Android application that uses GUI components, fonts and colors](#GUI-COMPONENTS,-FONTS-AND-COLORS)
+* [Development of an Android application that uses GUI components, fonts and colors](#GUI-COMPONENTS-FONTS-AND-COLORS)
 * [Development of an Android application that uses layout managers and event listeners](#LAYOUT-MANAGERS-AND-EVENT-LISTENERS)
 * [Development of an Android application that draws basic graphical primitives on the screen](#GRAPHICAL-PRIMITIVES)
 * [Development of an Android application that makes use of databases](#DATABASE)
 * [Development of an Android application that makes use of Notification Manager](#NOTIFICATION-MANAGER)
 * [Development of an Android application to implement multithreading](#MULTITHREADING)
-* [Development of an Android application that makes use of GPS location information](#GPS LOCATION)
+* [Development of an Android application that makes use of GPS location information](#GPS-LOCATION)
 * [Development of an Android application to write data to SD card](#WRITE-DATA-TO-THE-SD-CARD)
 * [Development of an Android application that creates an alert upon receiving a message](#ALERT-ON-RECEIVING-A-MESSAGE)
 * [Development of an Android application that makes use of RSS feed](#RSS-FEED)
-* [Development of an Android application to send an email] (#SEND-AN-EMAIL)
-* [Bonus - Calculator App] (#BONUS--CALCULATOR-APP)
+* [Development of an Android application to send an email](#SEND-AN-EMAIL)
+* [Bonus - Calculator App](#BONUS\--CALCULATOR-APP)
 * [Acknowledgement](#ACKNOWLEDGEMENT)
 
 ## GUI COMPONENTS, FONTS AND COLORS
