@@ -13,7 +13,7 @@
 9. [Development of an Android application that creates an alert upon receiving a message](#9-ALERT-ON-RECEIVING-A-MESSAGE)
 10. [Development of an Android application that makes use of RSS feed](#10-RSS-FEED)
 11. [Development of an Android application to send an email](#11-SEND-AN-EMAIL)
-12. [Bonus - Calculator App](#12-BONUS-CALCULATOR-APP)
+12. [Bonus - Calculator App](#12-BONUS-\--CALCULATOR-APP)
 13. [Acknowledgement](#13-ACKNOWLEDGEMENT)
 
 ## 1. GUI COMPONENTS, FONTS AND COLORS
